@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: com.hadoop.gplcompression:hadoop-lzo:0.4.16">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.hadoop.gplcompression/hadoop-lzo/jars/hadoop-lzo-0.4.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

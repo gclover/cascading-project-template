@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: cascading:cascading-local:2.5.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/cascading/cascading-local/jars/cascading-local-2.5.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

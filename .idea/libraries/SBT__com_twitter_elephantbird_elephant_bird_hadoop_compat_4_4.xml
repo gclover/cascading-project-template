@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: com.twitter.elephantbird:elephant-bird-hadoop-compat:4.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.twitter.elephantbird/elephant-bird-hadoop-compat/jars/elephant-bird-hadoop-compat-4.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
